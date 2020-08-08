@@ -1,4 +1,5 @@
 # Program to determine whether a sequence of brackets is Balanced or Not
+
 openList = ["[","{","("]  # Opening Brackets
 closeList = ["]","}",")"] # Closing Brackets
 
